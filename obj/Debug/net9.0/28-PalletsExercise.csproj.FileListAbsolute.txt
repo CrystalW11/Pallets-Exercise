@@ -1,0 +1,14 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\bin\Debug\net9.0\28-PalletsExercise.exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\bin\Debug\net9.0\28-PalletsExercise.deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\bin\Debug\net9.0\28-PalletsExercise.runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\bin\Debug\net9.0\28-PalletsExercise.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\bin\Debug\net9.0\28-PalletsExercise.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\obj\Debug\net9.0\28-PalletsExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\obj\Debug\net9.0\28-PalletsExercise.AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\obj\Debug\net9.0\28-PalletsExercise.AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\obj\Debug\net9.0\28-PalletsExercise.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\obj\Debug\net9.0\28-PalletsExercise.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\obj\Debug\net9.0\refint\28-PalletsExercise.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\obj\Debug\net9.0\28-PalletsExercise.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\obj\Debug\net9.0\28-PalletsExercise.genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\28-PalletsExercise\obj\Debug\net9.0\ref\28-PalletsExercise.dll
