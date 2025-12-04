@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello, World!");
-
-string[] pallets = [ "B14", "A11", "B12", "A13" ];
+﻿string[] pallets = [ "B14", "A11", "B12", "A13" ];
 Console.WriteLine("");
 
 Array.Clear(pallets, 0, 2);

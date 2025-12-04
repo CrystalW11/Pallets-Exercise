@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("28-PalletsExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0acc6d5b0945b0a764dbb055b4153bad706fcf33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ce6f5930b4220fc0481b233fc54e1865fa5fca2")]
 [assembly: System.Reflection.AssemblyProductAttribute("28-PalletsExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("28-PalletsExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
